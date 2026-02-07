@@ -9,7 +9,7 @@
 ---
 
 ## 👤 Participant Profile
-**Name:** Mustafid Kaisalana  
+**Name:** Muhammad Ivan Khoirur Rizky 
 **Program:** Project-Based Internship – Performance Analytics  
 **Project Title:** Kimia Farma Business Performance Analysis (2020–2023)
 
